@@ -1,6 +1,6 @@
 import streamlit as st
 import torch
-from detect import detect
+from detect import run
 from PIL import Image
 from io import *
 import glob
